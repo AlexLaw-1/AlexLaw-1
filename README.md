@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm AlexLaw!
+# 👋 Hello there, I'm Alexander Lawrence!
 
 I'm a passionate **Software Developer** who loves building powerful, efficient, and scalable web applications using **JavaScript** and **Laravel**.  
 I enjoy clean code, solving problems, and collaborating with other developers around the world.
@@ -30,9 +30,7 @@ I enjoy clean code, solving problems, and collaborating with other developers ar
 
 ## 🔗 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- [Portfolio](https://yourwebsite.com)  
-- [Twitter](https://twitter.com/yourhandle)
+- [LinkedIn](https://www.youtube.com/@Alexander.Lawrence)
 
 ---
 
