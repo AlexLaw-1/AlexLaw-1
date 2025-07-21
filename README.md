@@ -1,15 +1,39 @@
-# 🚀 Welcome to LexLaw-1's Repository
+# 👋 Hello there, I'm AlexLaw!
 
-Hi there! 👋  
-I'm **Lex**, a passionate Software Developer specialized in building robust backend systems with **Laravel** and creating interactive frontends using **JavaScript**.  
-This repository showcases one of my Laravel + JS projects — built with clean code, scalable architecture, and modern developer tools.
+I'm a passionate **Software Developer** who loves building powerful, efficient, and scalable web applications using **JavaScript** and **Laravel**.  
+I enjoy clean code, solving problems, and collaborating with other developers around the world.
 
-## 🛠 Tech Stack
+---
 
-- **Backend**: [Laravel](https://laravel.com/) (PHP Framework)
-- **Frontend**: JavaScript (Vanilla/Framework of choice)
-- **Database**: MySQL / PostgreSQL
-- **Editor**: [Visual Studio Code](https://code.visualstudio.com/)
+## 🧰 Tech Stack
 
-## 📁 Project Structure
+- ⚙️ **Languages**: JavaScript (ES6+), PHP  
+- 🌐 **Frameworks**: Laravel, Vue.js, Node.js  
+- 🧠 **Tools**: Visual Studio Code, Git, Postman, Composer  
+- 🛠️ **Databases**: MySQL, SQLite
 
+---
+
+## 🌍 Languages I Speak
+
+- 🇺🇸 English  
+- 🇩🇪 German
+
+---
+
+## 📈 GitHub Stats
+
+![AlexLaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexLaw-1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLaw-1&layout=compact&theme=radical)
+
+---
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/your-link)  
+- [Portfolio](https://yourwebsite.com)  
+- [Twitter](https://twitter.com/yourhandle)
+
+---
+
+> ✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
