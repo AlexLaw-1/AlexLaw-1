@@ -4,7 +4,7 @@ I'm a passionate **Software Developer** who loves building powerful, efficient, 
 I enjoy clean code, solving problems, and collaborating with other developers around the world.
 
 ---
-
+...
 ## 🧰 Tech Stack
 
 - ⚙️ **Languages**: JavaScript (ES6+), PHP  
